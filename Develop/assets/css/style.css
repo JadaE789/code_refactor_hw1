@@ -4,6 +4,7 @@
     margin: 0;
 }
 
+/* Html elements*/
 body {
     background-color: #d9dcd6;
 }
@@ -17,7 +18,7 @@ body {
 
 
 
-/* Allows the navigation bar items to be positioned in the header correctly*/
+/* Header */
 .header h1 {
     display: inline-block;
     font-size: 48px;
@@ -55,6 +56,7 @@ p {
     font-size: 16px;
 }
 
+/*Hero Image*/
 .hero {
     height: 800px;
     width: 100%;
@@ -75,13 +77,14 @@ p {
 }
 
 
-/* this aligns the side bar content next to the benefits that are listed on there and all information fits on one screen*/
+/* Main content section*/
 .content {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
 
+/*Benefits Section*/
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -141,6 +144,7 @@ p {
     max-width: 150px;
 }
 
+/*Search -engine section*/
 .search-engine-optimization {
     margin-bottom: 20px;
     padding: 50px;
@@ -150,6 +154,7 @@ p {
     color: #ffffff;
 }
 
+/*Online-reputation section*/
 .online-reputation-management {
     margin-bottom: 20px;
     padding: 50px;
@@ -159,6 +164,7 @@ p {
     color: #ffffff;
 }
 
+/* Social media marketing section*/
 .social-media-marketing {
     margin-bottom: 20px;
     padding: 50px;
@@ -168,6 +174,7 @@ p {
     color: #ffffff;
 }
 
+/*Content section img height*/
 .search-engine-optimization img {
     max-height: 200px;
 }
@@ -195,6 +202,7 @@ p {
     font-size: 36px;
 }
 
+/*Footer section*/
 .footer {
     padding: 30px;
     clear: both;
